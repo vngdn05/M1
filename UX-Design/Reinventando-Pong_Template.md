@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
+Para demonstramos que aprendemos *Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
  
 ---
 
@@ -14,13 +14,13 @@
 ## 3. Proposta de Reinvenção  
 *Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
 
-*- **Tema e Ambientação:** Qual é o novo contexto do jogo?*
+*- **Tema e Ambientação:** O novo contexto do jogo é que haverão duas focas competindo para quem consegue mais petiscos dentro de um circo.
 
-*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
+*- **Personagens ou Elementos Visuais:** Haverão dois personagens: "" e "". O jogo vai se passar em um circo então o plano de fundo vai ser dentro dele.
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
+*- **Mudanças na Mecânica:** A forma de jogar e as regras são as mesmas 
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+*- **Objetivo da Reinvenção:** A nova versão do pong apresentada pretende aumentar a competitividade e trazer uma imersão diferenciada do jogo, fazendo dele um jogo mais divertido
 
 *Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 
